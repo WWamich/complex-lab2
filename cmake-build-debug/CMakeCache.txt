@@ -157,7 +157,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=complex_lab2
+CMAKE_PROJECT_NAME:STATIC=complex-lab2
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=D:/CLion 2023.2.2/bin/mingw/bin/ranlib.exe
@@ -238,6 +238,24 @@ CMAKE_STRIP:FILEPATH=D:/CLion 2023.2.2/bin/mingw/bin/strip.exe
 // during the make.  This is useful for debugging only. With Visual
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
+
+//Value Computed by CMake
+calculusgit_BINARY_DIR:STATIC=C:/Users/admir/CLionProjects/complex-lab2/cmake-build-debug
+
+//Value Computed by CMake
+calculusgit_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+calculusgit_SOURCE_DIR:STATIC=C:/Users/admir/CLionProjects/complex-lab2
+
+//Value Computed by CMake
+complex-lab2_BINARY_DIR:STATIC=C:/Users/admir/CLionProjects/complex-lab2/cmake-build-debug
+
+//Value Computed by CMake
+complex-lab2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+complex-lab2_SOURCE_DIR:STATIC=C:/Users/admir/CLionProjects/complex-lab2
 
 //Value Computed by CMake
 complex_lab2_BINARY_DIR:STATIC=C:/Users/admir/CLionProjects/complex-lab2/cmake-build-debug
@@ -405,6 +423,32 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 CMAKE_STRIP-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding Python3
+FIND_PACKAGE_MESSAGE_DETAILS_Python3:INTERNAL=[C:/Users/admir/AppData/Local/Programs/Python/Python312/python.exe][C:/Users/admir/AppData/Local/Programs/Python/Python312/libs/python312.lib][C:/Users/admir/AppData/Local/Programs/Python/Python312/include][C:/Users/admir/AppData/Local/Programs/Python/Python312/Lib/site-packages/numpy/core/include][cfound components: Interpreter Development NumPy Development.Module Development.Embed ][v3.12.6(3.12)]
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
+//Compiler reason failure
+_Python3_Compiler_REASON_FAILURE:INTERNAL=
+_Python3_DEVELOPMENT_EMBED_SIGNATURE:INTERNAL=7cba846080768e9eb7ea641d1f1090ea
+_Python3_DEVELOPMENT_MODULE_SIGNATURE:INTERNAL=7cba846080768e9eb7ea641d1f1090ea
+//Development reason failure
+_Python3_Development_REASON_FAILURE:INTERNAL=
+//Path to a program.
+_Python3_EXECUTABLE:INTERNAL=C:/Users/admir/AppData/Local/Programs/Python/Python312/python.exe
+//Path to a file.
+_Python3_INCLUDE_DIR:INTERNAL=C:/Users/admir/AppData/Local/Programs/Python/Python312/include
+//Python3 Properties
+_Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;12;6;64;;cp312-win_amd64;;C:\Users\admir\AppData\Local\Programs\Python\Python312\Lib;C:\Users\admir\AppData\Local\Programs\Python\Python312\Lib;C:\Users\admir\AppData\Local\Programs\Python\Python312\Lib\site-packages;C:\Users\admir\AppData\Local\Programs\Python\Python312\Lib\site-packages
+_Python3_INTERPRETER_SIGNATURE:INTERNAL=02f40f106ac6672b968ea43f1238c658
+//Interpreter reason failure
+_Python3_Interpreter_REASON_FAILURE:INTERNAL=
+//Path to a library.
+_Python3_LIBRARY_DEBUG:INTERNAL=_Python3_LIBRARY_DEBUG-NOTFOUND
+//Path to a library.
+_Python3_LIBRARY_RELEASE:INTERNAL=C:/Users/admir/AppData/Local/Programs/Python/Python312/libs/python312.lib
+_Python3_NUMPY_SIGNATURE:INTERNAL=d6f56ddbd9bfd091e5af792aabfc3d64
+//Path to a file.
+_Python3_NumPy_INCLUDE_DIR:INTERNAL=C:/Users/admir/AppData/Local/Programs/Python/Python312/Lib/site-packages/numpy/core/include
+//Path to a library.
+_Python3_RUNTIME_LIBRARY_RELEASE:INTERNAL=C:/Users/admir/AppData/Local/Programs/Python/Python312/python312.dll
 

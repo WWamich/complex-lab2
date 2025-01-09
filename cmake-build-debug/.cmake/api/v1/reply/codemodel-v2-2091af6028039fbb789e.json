@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "complex_lab2",
+					"name" : "complex-lab2",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "complex_lab2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-complex_lab2-Debug-48f200a45f85b2d106d1.json",
-					"name" : "complex_lab2",
+					"id" : "complex-lab2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-complex-lab2-Debug-cd10ed22ef40ece71835.json",
+					"name" : "complex-lab2",
 					"projectIndex" : 0
 				}
 			]

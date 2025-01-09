@@ -1,3 +1,3 @@
-C:/Users/admir/CLionProjects/complex-lab2/cmake-build-debug/CMakeFiles/complex_lab2.dir
+C:/Users/admir/CLionProjects/complex-lab2/cmake-build-debug/CMakeFiles/complex-lab2.dir
 C:/Users/admir/CLionProjects/complex-lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/admir/CLionProjects/complex-lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
