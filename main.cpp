@@ -3,10 +3,9 @@
 #include <complex>
 #include <cmath>
 
-// Enable this flag to compile without NumPy
 #define WITHOUT_NUMPY
 
-#include "matplotlibcpp.h"  // Ensure the path to matplotlibcpp.h is correct
+#include "matplotlibcpp.h"  
 
 namespace plt = matplotlibcpp;
 
